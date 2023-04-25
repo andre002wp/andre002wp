@@ -1,4 +1,5 @@
 ### Hi there 👋
+i am I Made Andre Dwi Winama Putra an undergraduated college students with a high passion and interest for technology. Im a self-motivated person with experience in Computer Vision, Natural Language Processing, Deep Learning using tensorflow and some familiarity with developing Mobile Apps, and Web Services. Other than that, I love to spend my time watching bleeding edge technology that will hopefully change the future since my dream is that one day I will be able to contribute in its development. Personally i love challenges, because for me challenges are the things that keeps you moving forward and helps you make a better you.
 
 <!--
 **andre002wp/andre002wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
